@@ -1,0 +1,17 @@
+{
+  "parent": "svc:birch_capital",
+  "display": {
+    "icon": {
+      "id": "minecraft:shears"
+    },
+    "title": "遗失的剪刀",
+    "description": "帮村民找回丢失的剪刀",
+    "frame": "task",
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

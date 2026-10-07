@@ -1,0 +1,17 @@
+{
+  "parent": "svc:op_coast",
+  "display": {
+    "icon": {
+      "id": "minecraft:allay_spawn_egg"
+    },
+    "title": "工作室总部",
+    "description": "进入灵跃工作室房间",
+    "frame": "task",
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

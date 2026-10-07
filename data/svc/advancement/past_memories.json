@@ -1,0 +1,17 @@
+{
+  "parent": "svc:op_coast",
+  "display": {
+    "icon": {
+      "id": "minecraft:blaze_rod"
+    },
+    "title": "往日种种",
+    "description": "与炽焰使者对话",
+    "frame": "task",
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

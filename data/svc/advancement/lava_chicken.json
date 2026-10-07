@@ -1,0 +1,17 @@
+{
+  "parent": "svc:birch_capital",
+  "display": {
+    "icon": {
+      "id": "minecraft:cooked_chicken"
+    },
+    "title": "岩浆烤鸡",
+    "description": "从村民那里获得岩浆烤鸡",
+    "frame": "task",
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

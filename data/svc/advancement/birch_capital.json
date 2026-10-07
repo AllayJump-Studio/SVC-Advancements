@@ -1,0 +1,16 @@
+{
+  "parent": "svc:welcome",
+  "display": {
+    "icon": {
+      "id": "minecraft:birch_sapling"
+    },
+    "title": "桦京往事",
+    "description": "悦灵庇护之所，村民聚集之所",
+    "frame": "goal"
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

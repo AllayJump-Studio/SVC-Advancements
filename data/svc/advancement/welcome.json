@@ -1,0 +1,19 @@
+{
+  "parent": "svc:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:knowledge_book"
+    },
+    "title": "欢迎加入SVC！",
+    "description": "开始我们的旅程吧",
+    "frame": "challenge"
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 7
+  }
+}

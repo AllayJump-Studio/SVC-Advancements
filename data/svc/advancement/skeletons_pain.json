@@ -1,0 +1,17 @@
+{
+  "parent": "svc:birch_capital",
+  "display": {
+    "icon": {
+      "id": "minecraft:spyglass"
+    },
+    "title": "嘟嘟哒嘟嘟哒",
+    "description": "尝试把骷髅雇佣兵的望远镜拔下来",
+    "frame": "task",
+    "hidden": true
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

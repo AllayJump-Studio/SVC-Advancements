@@ -1,0 +1,16 @@
+{
+  "parent": "svc:welcome",
+  "display": {
+    "icon": {
+      "id": "minecraft:heart_of_the_sea"
+    },
+    "title": "海港微风",
+    "description": "旧时主城，海风拂面",
+    "frame": "goal"
+  },
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
